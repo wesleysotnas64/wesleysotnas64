@@ -3,7 +3,7 @@
 - :computer: Graduando em Ciência da Computação - UFC
 - :video_game: Desenvolvedor  de Jogos
 - :hearts: Unity2D
-- :books: Estudando **C, C++, C# e Shaders (Toon Shader e HalfTone Shader)**
+- :books: Estudando **C, C++, C# e Shaders (Toon Shader e Hard Shader)**
 
 <div align="center">
   <a href="https://github.com/wesleysotnas64">
