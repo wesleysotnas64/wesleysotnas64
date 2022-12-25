@@ -1,9 +1,9 @@
 # Opa! :call_me_hand: Eu sou Wesley Santos
 
 - :computer: Graduando em Ciência da Computação - UFC
-- :video_game: Desenvolvedor  de Jogos
-- :hearts: Unity2D
-- :books: Estudando **C, C++, C# e Shaders (Toon Shader e Hard Shader)**
+- :video_game: Desenvolvedor de Jogos
+- :hearts: Unity3D
+- :books: Estudando **C, C# e Shaders em GLSL (Toon Shader)**
 
 <div align="center">
   <a href="https://github.com/wesleysotnas64">
