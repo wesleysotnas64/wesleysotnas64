@@ -3,5 +3,5 @@
 - :computer: Graduando em Ciência da Computação - UFC
 - :video_game: Desenvolvedor de Jogos
 - :hearts: Unity3D
-- :books: Estudando **C, C# e Shaders (NPR)**
+- :books: Estudando **C# e Shaders (NPR)**
  
