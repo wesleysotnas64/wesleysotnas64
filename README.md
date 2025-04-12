@@ -1,7 +1,7 @@
 # Opa! :call_me_hand: Eu sou Wesley Santos
 
-- :computer: Graduando em Ciência da Computação - UFC
+- :computer: Graduado em Ciência da Computação - U
 - :video_game: Desenvolvedor de Jogos
 - :hearts: Unity3D
-- :books: Estudando **C# e Shaders (NPR)**
+- :books: Estudando **C#, .NET e Shaders (NPR)**
  
